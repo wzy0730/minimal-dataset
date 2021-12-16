@@ -10,5 +10,5 @@ https://aistudio.baidu.com/aistudio/datasetdetail/68403.
 The WBC images of tri-classification in the WBCs dataset: 
 https://aistudio.baidu.com/aistudio/datasetdetail/93225.
 
-The WBC images of tri-classification in the WBCs dataset: 
+The WBC images of quad-classification in the WBCs dataset: 
 https://aistudio.baidu.com/aistudio/datasetdetail/93224.
